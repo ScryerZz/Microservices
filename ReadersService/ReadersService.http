@@ -1,0 +1,6 @@
+@ReadersService_HostAddress = http://localhost:5063
+
+GET {{ReadersService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
